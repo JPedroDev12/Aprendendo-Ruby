@@ -52,3 +52,38 @@
 # valorAluguel = (dias * 90) + (kmR * 0.20)
 
 # print "O Valor do Aluguel é de: #{valorAluguel}"
+
+
+
+
+# def potencia
+#     print "Digite o número base: "
+#     nb = gets.chomp.to_i
+#     print "Digite o número de expoente: "
+#     ne = gets.chomp.to_i
+    
+#     resultado = nb ** ne
+#     puts "A conta de Potência deu o Resultado: #{resultado}"
+# end
+
+# potencia
+
+
+
+
+
+
+# require 'cpf_cnpj'
+
+# def validation(cpf)
+#     if CPF.valid?(cpf, strict: true)
+#         puts "CPF Valid"
+#     else
+#         puts "CPF Invalid"
+#     end
+# end
+
+# print ("Enter a your CPF: ")
+# cpf = gets.chomp
+
+# validation(cpf)
